@@ -1,7 +1,7 @@
 
 # Fortify_Me
 
-Chrome extension that predicts strength of your password and estimates decryption time using hashing algorithms and API calls.
+Chrome extension that predicts strength of your password and estimates decryption time using hashing algorithms and previously breached password records.
 
 ## Demo
 
